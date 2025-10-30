@@ -14,17 +14,33 @@ O layout foi inspirado em tons verdes e elementos naturais, transmitindo a propo
 
 ## 🖼️ Demonstração
 
-### Página 1
-![Preview 1](Demonstração/1.png)
+Abaixo estão as prévias do site.  
 
-### Página 2
-![Preview 2](Demonstração/2.png)
+### 🏠 P
+![Página Inicial](https://raw.githubusercontent.com/gabrielyzy/etudes/main/Demonstração/1.png)
 
-### Página 3
-![Preview 3](Demonstração/3.png)
+### 💡 
+![Sobre Nós](https://raw.githubusercontent.com/gabrielyzy/etudes/main/Demonstração/2.png)
 
-### Página 4
-![Preview 4](Demonstração/4.png)
+### 🔧   
+![Serviços](https://raw.githubusercontent.com/gabrielyzy/etudes/main/Demonstração/3.png)
+
+### 🌿   
+![Sustentabilidade](https://raw.githubusercontent.com/gabrielyzy/etudes/main/Demonstração/4.png)
+
+### 💬   
+![Blog](https://raw.githubusercontent.com/gabrielyzy/etudes/main/Demonstração/5.png)
+
+### 🧠   
+![Inovação](https://raw.githubusercontent.com/gabrielyzy/etudes/main/Demonstração/6.png)
+
+### 📞   
+![Contato](https://raw.githubusercontent.com/gabrielyzy/etudes/main/Demonstração/7.png)
+
+### 📱 
+![Versão Mobile](https://raw.githubusercontent.com/gabrielyzy/etudes/main/Demonstração/8.png)
+
+---
 
 
 
