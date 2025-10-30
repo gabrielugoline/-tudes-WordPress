@@ -14,32 +14,17 @@ O layout foi inspirado em tons verdes e elementos naturais, transmitindo a propo
 
 ## 🖼️ Demonstração
 
-Abaixo estão os caminhos que ainda serão atualizados com as capturas de tela reais do site:
+### Página 1
+![Preview 1](Demonstração/1.png)
 
-### 
-👉 *(Ver)* `/Demonstração/1.png`
+### Página 2
+![Preview 2](Demonstração/2.png)
 
-### 
-👉 *(Ver)* `/Demonstração/2.png`
+### Página 3
+![Preview 3](Demonstração/3.png)
 
-### 
-👉 *(Ver)* `/Demonstração/3.png`
+### Página 4
+![Preview 4](Demonstração/4.png)
 
-### 
-👉 *(Ver)* `/Demonstração/4.png`
-
-### 
-👉 *(Ver)* `/Demonstração/5.png`
-
-### 
-👉 *(Ver)* `/Demonstração/6.png`
-
-### 
-👉 *(Ver)* `/Demonstração/7.png`
-
-### 
-👉 *(Ver)* `/Demonstração/8.png`
-
----
 
 
