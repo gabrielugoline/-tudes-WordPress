@@ -17,7 +17,7 @@ O layout foi inspirado em tons verdes e elementos naturais, transmitindo a propo
 Abaixo estão as prévias do site.  
 
 ### 🏠 P
-![Página Inicial](https://raw.githubusercontent.com/gabrielyzy/etudes/main/Demonstração/1.png)
+![Página Inicial](Demonstração/1.png)
 
 ### 💡 
 ![Sobre Nós](https://raw.githubusercontent.com/gabrielyzy/etudes/main/Demonstração/2.png)
